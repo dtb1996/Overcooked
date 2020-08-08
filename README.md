@@ -1,7 +1,7 @@
 # Overcooked
 
 ## Description
-...
+Recreation of the mechanics of Overcooked.
 
 ## Assets used
 
