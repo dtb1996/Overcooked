@@ -45,3 +45,28 @@ https://sketchfab.com/3d-models/sink-low-poly-gray-pallet-083b867926374dd7b86fb8
 
 Onion icon:
 https://www.flaticon.com/free-icon/onion_1054131?term=onion&page=1&position=6
+
+******Particles******
+
+Smoke particle based on:
+https://www.youtube.com/watch?v=IAaBSuj1Bi8
+
+Cloud:
+https://sketchfab.com/3d-models/clouds-116f49c23c4347eba340d0f59b0601f7
+
+Bubble particle based on:
+https://www.youtube.com/watch?v=a_AnrlGH7Z8
+
+Confetti particle based on:
+https://www.youtube.com/watch?v=q7wATk4siu8
+
+******Sounds******
+
+Bell:
+http://soundbible.com/2190-Front-Desk-Bell.html
+
+Plate:
+http://soundbible.com/336-Pin-Or-Ting-Metal-Plate.html
+
+Beep:
+http://soundbible.com/1252-Bleep.html
