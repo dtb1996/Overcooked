@@ -1,72 +1,69 @@
-# Overcooked
+Assets used:
 
-## Description
-Recreation of the mechanics of Overcooked.
+"Onion Free 3D model" by ashley15126:
+https://www.cgtrader.com/free-3d-models/food/vegetable/onion-0df2f2ef-8993-4281-92a3-749e930b2b7f
 
-## Assets used
+"Splats" by smcafee-3d:
+https://sketchfab.com/3d-models/splats-05f81b4e4cf74e388ff3cef63da3c77f#download
 
-Onion:
-https://sketchfab.com/3d-models/onion-1eb9bc82080f4d9a98ad696f26ab1576#download (old)
+"Plate Free low-poly 3D model" by lloydedwardsa:
+https://www.cgtrader.com/free-3d-models/household/kitchenware/plate--2
 
-https://www.cgtrader.com/items/902187/download-page
+"Simple Cutting Board Free 3D model" by micke-kywahara:
+https://www.cgtrader.com/free-3d-models/interior/kitchen/simple-cutting-board
 
-https://sketchfab.com/3d-models/splats-05f81b4e4cf74e388ff3cef63da3c77f#download (cut puddle)
+"A Purple Counter" by AmythystMorris:
+https://sketchfab.com/3d-models/a-purple-counter-36847b598684492b9044c19892d7d286
 
-Plate:
-https://www.cgtrader.com/items/79261/download-page
-
-Cutting board:
-https://www.cgtrader.com/items/891807/download-page
-
-Surface:
-https://sketchfab.com/3d-models/a-purple-counter-36847b598684492b9044c19892d7d286#download (purple)
-
-https://sketchfab.com/3d-models/night-table-e8fac3d91b90440f9277134cf6f0bd3f#download (nightstand)
-
-Stove:
-https://www.turbosquid.com/3d-models/cooker-gas-stove-3d-model-1277367
-
+"Electric oven" by GISHKA:
 https://www.turbosquid.com/3d-models/free-electric-oven-3d-model/367856
 
-Floor texture:
-https://opengameart.org/content/clean-repeatable-tile
-
-Pot:
+"Caldron" by keresa:
 https://www.turbosquid.com/3d-models/caldron-water-3d-max/500662
 
-Check:
-https://www.flaticon.com/free-icon/check_1632596?term=done&page=1&position=11
-
-Knife:
+"Michael Myers Knife (Halloween)" by Anthony Yanez:
 https://sketchfab.com/3d-models/michael-myers-knife-halloween-48a6aed1dff24e57b6836ade47a46ead
 
-Sink:
+"Sink Low poly Gray pallet" by neutron_rus:
 https://sketchfab.com/3d-models/sink-low-poly-gray-pallet-083b867926374dd7b86fb800af428510
 
-Onion icon:
-https://www.flaticon.com/free-icon/onion_1054131?term=onion&page=1&position=6
+"Clean Repeatable Tile" by Jacob:
+https://opengameart.org/content/clean-repeatable-tile
 
-******Particles******
+UI:
 
-Smoke particle based on:
+"Check" icon by Pixelmeetup:
+https://www.flaticon.com/free-icon/check_1632596?term=done&page=1&position=11
+
+"Cancel" icon by Pixel perfect:
+https://www.flaticon.com/free-icon/close_1828665?term=cancel&page=1&position=5
+
+"Onion" icon by Freepik:
+https://www.flaticon.com/free-icon/onion_680940?term=onion&page=1&position=7
+
+Particles:
+
+Smoke particle based on "UE4 tutorial: Smoke particle system" by Alen Loeb:
 https://www.youtube.com/watch?v=IAaBSuj1Bi8
 
-Cloud:
-https://sketchfab.com/3d-models/clouds-116f49c23c4347eba340d0f59b0601f7
-
-Bubble particle based on:
+Bubble particle based on "Unreal engine | Bubbles Material and Particle Effect Tutorial" by CGHOW:
 https://www.youtube.com/watch?v=a_AnrlGH7Z8
 
-Confetti particle based on:
+Confetti particle based on "UE4: Confetti Particles" by Laurent Dufresne:
 https://www.youtube.com/watch?v=q7wATk4siu8
 
-******Sounds******
+Sounds:
 
-Bell:
+"Front Desk Bell Sound" by Daniel Simion:
 http://soundbible.com/2190-Front-Desk-Bell.html
 
-Plate:
+"Pin Or Ting Metal Plate Sound" by Mike Koenig:
 http://soundbible.com/336-Pin-Or-Ting-Metal-Plate.html
 
-Beep:
+"Bleep Sound" by Mike Koenig:
 http://soundbible.com/1252-Bleep.html
+
+Character:
+
+"Leonard" character and animations taken from Mixamo:
+https://www.mixamo.com/#/
