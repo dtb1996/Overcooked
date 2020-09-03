@@ -1,4 +1,16 @@
-Assets used:
+Demo of some of the mechanics of Overcooked recreated in Unreal Engine 4.
+
+## Controls:
+
+Move - W, A, S, D
+
+Grab Food/Item - Left Mouse Button
+
+Perform Action - Right Mouse Button
+
+Exit - Esc, P
+
+## Assets used:
 
 "Onion Free 3D model" by ashley15126:
 https://www.cgtrader.com/free-3d-models/food/vegetable/onion-0df2f2ef-8993-4281-92a3-749e930b2b7f
@@ -30,7 +42,7 @@ https://sketchfab.com/3d-models/sink-low-poly-gray-pallet-083b867926374dd7b86fb8
 "Clean Repeatable Tile" by Jacob:
 https://opengameart.org/content/clean-repeatable-tile
 
-UI:
+### UI:
 
 "Check" icon by Pixelmeetup:
 https://www.flaticon.com/free-icon/check_1632596?term=done&page=1&position=11
@@ -41,7 +53,7 @@ https://www.flaticon.com/free-icon/close_1828665?term=cancel&page=1&position=5
 "Onion" icon by Freepik:
 https://www.flaticon.com/free-icon/onion_680940?term=onion&page=1&position=7
 
-Particles:
+### Particles:
 
 Smoke particle based on "UE4 tutorial: Smoke particle system" by Alen Loeb:
 https://www.youtube.com/watch?v=IAaBSuj1Bi8
@@ -52,7 +64,7 @@ https://www.youtube.com/watch?v=a_AnrlGH7Z8
 Confetti particle based on "UE4: Confetti Particles" by Laurent Dufresne:
 https://www.youtube.com/watch?v=q7wATk4siu8
 
-Sounds:
+### Sounds:
 
 "Front Desk Bell Sound" by Daniel Simion:
 http://soundbible.com/2190-Front-Desk-Bell.html
@@ -63,7 +75,7 @@ http://soundbible.com/336-Pin-Or-Ting-Metal-Plate.html
 "Bleep Sound" by Mike Koenig:
 http://soundbible.com/1252-Bleep.html
 
-Character:
+### Character:
 
 "Leonard" character and animations taken from Mixamo:
 https://www.mixamo.com/#/
